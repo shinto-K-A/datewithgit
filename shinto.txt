@@ -1,2 +1,6 @@
 shinto K A
+<<<<<<< HEAD
 maybe review tomorow
+=======
+review tommorow
+>>>>>>> feature
